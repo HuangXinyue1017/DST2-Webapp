@@ -7,4 +7,4 @@ Web Service was developed by the studentent responsible for Web Service Developm
 SQL file was created by the student responsible for Database Development (https://github.com/DST2-Group3-WebApplication/dst2_ica_webapp/tree/main/precision_medicine.zip).
 
 Sequencing Data Processing Guideline was provided by the student responsible for processing Sequencing Data 
-(https://github.com/DST2-Group3-WebApplication/dst2_ica_webapp/tree/main/dst2_ica/src/main/webapp/guideline.pdf).
+(https://github.com/DST2-Group3-WebApplication/dst2_ica_webapp/tree/main/guideline.pdf).
