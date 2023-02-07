@@ -1,4 +1,4 @@
-# dst2_ica_webapp
+# DST2_ICA_Webapp
 This repo contains source code for ZJE DST2 2020 Group3 WebApp ICA project.
 
 ## Contributors
